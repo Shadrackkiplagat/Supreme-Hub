@@ -1,0 +1,28 @@
+.hero-container{
+    width: 100%;
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(8,0,58,0.7)), url('../../assets/image1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}  
+.hero-text{
+    text-align: center;
+    max-width: 800px
+}  
+.hero-text h1{
+    font-size: 50px;
+    font-weight: 500;
+
+}
+.hero-text p{
+    font-size: 20px;
+    margin: 10px 0;
+}
+.btn img{
+    width: 20px;
+    margin-left: 10px;
+}

@@ -1,0 +1,24 @@
+.services-container{
+    margin: 80px auto;
+    align-items: center;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.services-text img{
+  width: 100%;
+    height: 300px;
+  border-radius: 10px;
+  display: block; 
+}
+.services-text{
+    flex-basis: 31%;
+
+
+}
+.caption{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 50px ;
+   
+}

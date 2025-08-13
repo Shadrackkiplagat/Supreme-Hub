@@ -1,0 +1,38 @@
+.about-container{
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    background-color: hsl(0, 9%, 82%);
+}
+.about-left{
+    flex-basis: 40%;
+}
+.about-right{
+    flex-basis: 56%;
+   
+}
+.about-left img{
+    width: 100%;
+    
+    border-radius: 10px;
+}
+.about-right h2{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #212EA0;
+   
+    text-align: center;
+}
+.about-right h3{
+    font-size: 30px;
+    font-weight: 600;
+    max-height: 400px;
+}
+.about-right p{
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 20px;
+    color: #212121;
+}

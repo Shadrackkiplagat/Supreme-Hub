@@ -1,0 +1,73 @@
+.contact-container{
+    margin: 88px auto;
+    max-width: 90%;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+
+    
+}   
+.contact-form{
+    flex-basis: 48%; ;
+   color: #676767;
+}
+.msgicon{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+.contact-form h3{
+    color: #676767;
+    color: #000;
+    display: flex;
+    font-size: 25px;
+    font-weight: 600;
+    align-items: center;
+}
+.contact-form p{
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 450px;
+}
+.contact-form ul li{
+  display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+.contact-form ul li img{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+.send-btn{
+    background: #3cac4d;
+    color: #fff;
+    padding: 14px 25px;
+    font-size: 16px; 
+    border-radius:30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact-container form input,.contact-container form textarea{
+    width: 100%;
+    display: block;
+   background: #cbecfc;
+    padding: 15px ;
+    border: 0;
+    outline: 0;
+    margin-bottom: 12px;
+    /* margin-top: 5px; */
+    resize: none;
+
+}
+.sending{
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px 0;
+    display: block;
+}
+
