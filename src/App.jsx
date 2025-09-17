@@ -6,7 +6,7 @@ import Tittle from './Components/Tittle/Tittle'
 import About from './Components/About/About'
 import Gallery from './Components/Gallery/Gallery'
 import Testimonials from './Components/Testimonials/Testimonials'
-import Contact from './Components/Contact/Contact'
+import Contact from './Components/contact/contact'
 const App = () => {
   return (
     <div>
