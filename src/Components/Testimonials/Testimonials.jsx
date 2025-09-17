@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import "./Testimonials.css";
-import backarrow from "../../Assets/backarrow.png";
-import leftarrow2 from "../../Assets/leftarrow2.png";
-import user1 from "../../Assets/user1.jpeg";
-import user2 from "../../Assets/user2.jpeg";
-import user3 from "../../Assets/user3.jpg";
-import user4 from "../../Assets/user4.jpg";
+import backarrow from "../../assets/backarrow.png";
+import leftarrow2 from "../../assets/leftarrow2.png";
+import user1 from "../../assets/user1.jpeg";
+import user2 from "../../assets/user2.jpeg";
+import user3 from "../../assets/user3.jpg";
+import user4 from "../../assets/user4.jpg";
 
 const testimonials = [
   {
